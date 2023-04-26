@@ -1,0 +1,255 @@
+.sidebar{
+    background-color: black;
+    color:white;
+    width: 35%;
+    padding:px;
+    top: 0;
+    bottom: 0;
+    padding-top:20px;
+}
+.sidebar a{
+    color: white;
+}
+.sidebar ul{
+    list-style: none;
+    margin: 10px;
+    padding: 20px;
+    font-family: ;
+    font-size: 16px;
+    
+}
+a{
+    text-decoration: none;
+    
+    color: burlywood;
+}
+a:hover{
+    background-color: green;
+
+}
+.rounded-image{
+    width: 200px;
+    height: 200px;
+   border-radius: 50%;
+   overflow-y: none;  
+}
+.my-name{
+    font-size: 30px;
+    font-family:Roboto ;
+    padding-left: 25px;
+}
+.intro-text{
+    font-size: 25px;
+}
+.contact-me{
+    border-radius: 1px;
+    color: blue;
+    padding: 10px;
+    font-size: 20px;
+}
+.contact-me a{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    background-color: black;
+}
+.contact-me a:hover{
+    transition-delay: 10ms;
+    color: black;
+    background-color: white;
+}
+.my-work{
+    background-image: url(/images/926718673.jpg) ;
+    width: 1298px;
+    text-align: center;
+    background-color:white;
+    color: white;
+    list-style: none;
+    list-style-type: none;
+    text-decoration: none;
+}
+.add{
+    display: inline-flex;
+    width: 100%;
+    margin: 5px;
+    background-color: green;
+    background-image: url(/images/Black\ Hd\ -\ Nature\ -\ Sunset.jpg);
+    color: white;
+}
+#ho:hover{
+    background-color: black;
+}
+#about{
+    font-family: 'Cormorant Garamond', serif;;
+    font-size:100px ;
+    width:40%;
+
+}
+.wor{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 100px;
+    padding-top: 500px;
+
+}
+.my{
+    border: 2px solid blueviolet;
+    width: 450px;
+    border-radius: 10px;
+    background-color: #444;
+    padding-left:200;
+    margin: 5px;
+    animation: Jog 4s linear infinite;
+}
+.my:hover{
+    transform: translateY(10px);
+    background-color: purple;
+
+}
+@keyframes Jog{
+ 
+}
+.read-more{
+    padding: 10px;    
+}
+#icon{
+    border-radius: 40%;
+    border: #333 1px; 
+    margin: 4px;
+    background-color: #473535;
+}
+.read-more a{
+    font-weight: bold;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+.read-more a:hover{
+    background-color: white;
+    color: black;
+    transition-delay: 20ms;
+}
+.read-more a{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 8px;
+    color: white;
+    background-color: black;
+
+}
+.li{
+    padding: 5px;
+    margin-bottom: 10px;
+      
+}
+.cotent{
+    background-color: green;
+    color: blanchedalmond;
+    font-family: 'Cormorant Garamond', serif; 
+    display: inline-flex
+
+}
+.more-info{
+    background-color: aqua;
+    color: black;font-family: 'Gill Sans';
+    padding-bottom: 100px;
+}
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.car{
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    display: inline-flex;
+    border-radius: 10px;
+    border: blue solid 1px;
+    margin: 10px;
+}
+.car:hover{
+    background-color: green;
+}
+.card-img-top{
+    height: 200px;
+}
+.all{
+    color: white;
+    background-color: black;
+}
+.guess{
+    display: inline-flex;
+    padding: 10px;
+    height: 300px;
+    width: 00px;
+}
+#donee{
+    width: 300px;
+}
+#ord{
+    background-color: green;
+    margin: 15px;
+    background-color: black;
+    color: white;
+}
+.card-deck{
+    background-color: #262A56;
+}
+#ord:hover{
+    background-color: rgb(58, 93, 5);
+}
+.pot{
+    background-color: white;
+}
+#heda{
+    text-align: center;
+}
+#contact-me{
+    text-align: center;
+}
+    input[type="text"],
+input[type="email"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 20px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  
+}
+#fm{
+    background-color: ;
+}
+button[type="submit"]:hover {
+    background-color: #444;
+    border-radius: 10px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  .picc{
+    display: inline-flex;
+    width: 400px;
+    height: 300px;
+    margin: 2px;
+    padding: 10px;
+  }
+  #pico{
+    margin: 5px;
+  }
+  .last{
+    width: 950px;
+    text-align: center;
+    padding-left: 680px;
+    color: white;
+    background-position: center;
+  }
+.lass{
+    background-color: black;
+}
+
+
